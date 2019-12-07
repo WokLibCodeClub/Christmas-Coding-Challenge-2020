@@ -8,8 +8,8 @@ Links for Scratch projects:
 
 Christmas tree:
 
-scratch.mit.edu/projects/346471686/editor/
+[scratch.mit.edu/projects/346471686/editor/](http://scratch.mit.edu/projects/346471686/editor/)
 
 Winter scene:
 
-scratch.mit.edu/projects/348937468/editor/
+[scratch.mit.edu/projects/348937468/editor/](http://scratch.mit.edu/projects/348937468/editor/)
