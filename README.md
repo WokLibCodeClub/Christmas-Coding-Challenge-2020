@@ -10,7 +10,7 @@ The details of the competition are in a powerpoint file called
 To download this file click on the link then, on the next page, click on the Download button and save the file to your computer.
 
 
-There are two starter Scratch projects we have made on a couple of themes, which you can use if you want, to give you ideas. These projects have backgrounds, and several ready made sprites for the themes. Here are the links for these Scratch projects:
+There are two starter Scratch projects you can use, if you want, to give you ideas. These projects have backgrounds, and several ready made sprites for the themes. Here are the links for these Scratch projects:
 
 ### Christmas tree starter:
 
