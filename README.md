@@ -12,13 +12,11 @@ To download this file click on the link then, on the next page, click on the Dow
 
 There are two starter Scratch projects we have made on a couple of themes, which you can use if you want, to give you ideas. These projects have backgrounds, and several ready made sprites for the themes. Here are the links for these Scratch projects:
 
-Christmas tree starter:
-----------------------
+### Christmas tree starter:
 
 [scratch.mit.edu/projects/346471686/editor/](http://scratch.mit.edu/projects/346471686/editor/)
 
-Winter scene starter:
---------------------
+### Winter scene starter:
 
 [scratch.mit.edu/projects/348937468/editor/](http://scratch.mit.edu/projects/348937468/editor/)
 
@@ -26,4 +24,4 @@ Winter scene starter:
 
 Make sure your project is ready for judging at 11.15am on Saturday 14th December.
 
-### Good Luck! 
+## Good Luck! 
