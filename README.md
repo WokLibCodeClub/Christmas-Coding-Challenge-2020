@@ -4,7 +4,8 @@ The challenge is to use Scratch to create an animation, up to 45 secs long, for 
 
 The details of the competition are in a powerpoint file called 
 
-[Christmas Challenge 2019.pptx](./Christmas Challenge 2019.pptx) 
+[Christmas_Challenge_2019.pptx](./Christmas_Challenge_2019.pptx)
+ 
 To download this file click on the link at the top of this page, then on the next page click on the Download button and save it to your computer.
 
 
