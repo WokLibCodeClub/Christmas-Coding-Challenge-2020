@@ -22,7 +22,7 @@ There are two starter Scratch projects we have made on a couple of themes, which
 
 (The links are also included in the powerpoint file).
 
-If you want to use these projects, then open them while you are logged on with your Scratch user, and Remix them. You will then be able to edit and save your own version.
+If you want to use these projects, then open them while you are logged on with your Scratch user, and **Remix** them, otherwise you will not be able to edit and save your own version.
 
 Make sure your project is ready for judging at 11.15am on Saturday 14th December.
 
