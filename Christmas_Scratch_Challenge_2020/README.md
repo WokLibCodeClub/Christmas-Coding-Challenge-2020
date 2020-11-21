@@ -15,7 +15,7 @@ To enter the challenge you will need to create your animation in your own Scratc
 
 [Elizabeth.McDonald@wokingham.gov.uk](mailto:Elizabeth.McDonald@wokingham.gov.uk)
 
-by 5pm on Thursday 17th December 2020.
+by 5pm on Thursday 17th December 2020. We will showcase everyone's animations and announce the winners at the Code Club Scratch session on Saturday 19th December 2020.
 
 To help you if you need some ideas, there are two starter Scratch projects you can use, if you want. These projects have backgrounds, and several ready made sprites for the themes. Here are the links for these Scratch projects:
 
