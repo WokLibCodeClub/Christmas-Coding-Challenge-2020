@@ -7,10 +7,17 @@ The details of the competition are in a powerpoint file called
 
 [Christmas_Challenge_2020.pptx](./Christmas_Challenge_2020.pptx)
  
-To download this file click on the link then, on the next page, click on the Download button and save the file to your computer.
+To download this file right-click on the link and choose Save Link As... (some web browsers may have slightly different wording) to save the file to your computer.
 
+Please note, we are offering this challenge to new Code Club members, so the challenge will not be open to anyone who did the Scratch challenge last year. If you did last year's challenge we hope you will have a go at the [Python challenge](../Christmas_Python_Challenge_2020) this year!
 
-There are two starter Scratch projects you can use, if you want, to give you ideas. These projects have backgrounds, and several ready made sprites for the themes. Here are the links for these Scratch projects:
+To enter the challenge you will need to create your animation in your own Scratch account. When your project is finished you must **_share_** it then send the link to your shared project by email to 
+
+[Elizabeth.McDonald@wokingham.gov.uk](mailto:Elizabeth.McDonald@wokingham.gov.uk)
+
+by 5pm on Thursday 17th December 2020.
+
+To help you if you need some ideas, there are two starter Scratch projects you can use, if you want. These projects have backgrounds, and several ready made sprites for the themes. Here are the links for these Scratch projects:
 
 ### Christmas tree starter:
 
@@ -23,7 +30,5 @@ There are two starter Scratch projects you can use, if you want, to give you ide
 (The links are also included in the powerpoint file).
 
 If you want to use these projects, then open them while you are logged on with your Scratch user, and **Remix** them, otherwise you will not be able to edit and save your own version.
-
-Make sure your project is ready for judging at 11.15am on Saturday 14th December.
 
 ## Good Luck! 
