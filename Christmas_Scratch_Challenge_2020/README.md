@@ -7,7 +7,7 @@ The details of the competition are in a powerpoint file called
 
 [Christmas_Challenge_2020.pptx](./Christmas_Challenge_2020.pptx)
  
-To download this file right-click on the link and choose Save Link As... (some web browsers may have slightly different wording) to save the file to your computer.
+To download this file click on the link above, then on the next page click the Download button.
 
 Please note, we are offering this challenge to new Code Club members, so the challenge will not be open to anyone who did the Scratch challenge last year. If you did last year's challenge we hope you will have a go at the [Python challenge](../Christmas_Python_Challenge_2020) this year!
 
