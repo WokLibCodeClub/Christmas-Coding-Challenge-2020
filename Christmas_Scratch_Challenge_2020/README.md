@@ -9,7 +9,7 @@ The details of the competition are in a powerpoint file called
  
 To download this file click on the link above, then on the next page click the Download button.
 
-Please note, we are offering this challenge to new Code Club members, so the challenge will not be open to anyone who did the Scratch challenge last year. If you did last year's challenge we hope you will have a go at the [Python challenge](../Christmas_Python_Challenge_2020) this year!
+Please note, we are offering this challenge to Code Club members doing our Scratch sessions, so the challenge will not be open to anyone who has moved on to our Python sessions. If you are now learning Python we hope you will have a go at the [Python challenge](../Christmas_Python_Challenge_2020) this year!
 
 To enter the challenge you will need to create your animation in your own Scratch account. When your project is finished you must **_share_** it then send the link to your shared project by email to 
 
