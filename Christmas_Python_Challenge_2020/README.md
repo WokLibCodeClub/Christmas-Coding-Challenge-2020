@@ -6,7 +6,7 @@
 
 The Python Christmas Challenge is made up of a set of puzzles that you have to solve. The puzzles get harder and harder. You don't *have* to use Python to solve all of them, but you will find it a lot less tedious if you do.
 
-When you have solved a puzzle you get to the next level by adding your answer into the web page address, as shown in your web browser's address bar. The first page if the challenge shows exactly how to do this.
+When you have solved a puzzle you get to the next level by adding your answer into the web page address, as shown in your web browser's address bar. The webpage for the first puzzle shows exactly how to do this.
 
 At the beginning the puzzles have a one or two hints to point you in the right direction, but as the puzzles get harder the hints are fewer and fewer. You might even find you need to do some research on the internet to find out how to write some bits of Python code for the more difficult levels.
 
