@@ -4,7 +4,7 @@
   <img width="417" height="650" src="./Python_Xmas_tree.png">
 </p>
 
-The Python Christmas Challenge is made up of a set of ten puzzles that you have to solve. The puzzles get harder and harder. You don't *have* to use Python to solve all of them, but you will find it a lot less tedious if you do.
+The Python Christmas Challenge is made up of a set of ten puzzles that you have to solve. The puzzles get harder and harder. There are some you could solve *without* using Python but you will find it a lot more tedious that way!
 
 When you have solved a puzzle you get to the next level by adding your answer into the web page address, as shown in your web browser's address bar. The webpage for the first puzzle shows exactly how to do this.
 
